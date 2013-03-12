@@ -41,6 +41,7 @@ public class MainActivity extends ListActivity {
 				String strComment = commentString.getText().toString();
 				comment = dataSource.createComment(strComment);
 				adapter.add(comment);
+				commentString.setText("");
 			}
 			break;
 
