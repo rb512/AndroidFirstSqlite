@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SqliteFirst</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+	<string name="button_add">Add Comment</string>
+	<string name="button_delete">Delete Comment</string>
+	<string name="comment_text">Hello</string>
+	<string name="label_comment">Comment</string>
+</resources>
